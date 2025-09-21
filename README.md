@@ -1,6 +1,6 @@
 # ĦWallet
 
-The world's first & only blackout-resilient cryptocurrency wallet, that can run in a self-sufficient radio meshnet. The ĦWallet will soon offer Blackout-resilience as a Service (BaaS) (with our ĦMESH utility coin as fee) for other blockchain ecosystems such as Bitcoin, Ethereum, Cosmos, etc. in order to make these cryptocurrencies usable in crisis areas for the first time. The ĦWallet currently hosts the Pre-sale of our HMESH ERC20 token and will soon be hosting the ĦShop for our hardware products, the trustless ĦBridge between our native ĦMESH DPoS-Blockchain and the HMESH ERC20 token on Arbitrum. After the pre-sale it will also host the IDO for the HMESH-DEX, the voting and staking opportunity in our DPoS ecosystem and the much anticipated Oneway Swap (OWS) into the Free World Dollar (FWD).
+The world's first & only blackout-resilient cryptocurrency wallet, that can run in a self-sufficient radio meshnet. The ĦWallet will soon offer Blackout-resilience as a Service (BaaS) (with our ĦMESH utility coin as fee) for other blockchain ecosystems such as Bitcoin, Ethereum, Monero, USD-stablecoins, ERC20 token, etc. in order to make these cryptocurrencies usable in crisis areas for the first time. The ĦWallet currently hosts the Pre-sale of our HMESH ERC20 token and will soon be hosting the ĦShop for our hardware products, the trustless ĦBridge between our native ĦMESH DPoS-Blockchain and the HMESH ERC20 token on Arbitrum. After the pre-sale it will also host the IDO for the HMESH-DEX, the voting and staking opportunity in our DPoS ecosystem and the much anticipated Oneway Swap (OWS) into the Free World Dollar (FWD).
 
 <img src="docs/screenshots/screen_01.png" width="200px"> <img src="docs/screenshots/screen_02.png" width="200px"> <img src="docs/screenshots/screen_03.png" width="200px">
 <img src="docs/screenshots/screen_04.png" width="200px"> <img src="docs/screenshots/screen_05.png" width="200px"> <img src="docs/screenshots/screen_06.png" width="200px">
@@ -8,11 +8,11 @@ The world's first & only blackout-resilient cryptocurrency wallet, that can run 
 
 
 ## Current status
-This is currently a MVP.
+This is currently a minimal viable product (MVP).
 
 All core features are implemented and working.
 
-There will be further improvements and functional enhancements in the future.
+There will be continous improvements and functional enhancements in future updates.
 
 
 ## Apps/Features (Overview)
