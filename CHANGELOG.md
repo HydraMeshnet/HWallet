@@ -2,11 +2,14 @@
 
 ## Changelog
 
+#### 0.2.4 (2025-12-07)
+- First official public release
+
 #### 0.2.3 (2025-09-20)
 - Bug fixes and functionality enhancements
 
 #### 0.2.2 (2025-07-21)
-- First official public release
+- Bug fixes and functionality enhancements
 
 ### 0.1.0 (2025-07-01)
 - Rebranding: Renaming the app
