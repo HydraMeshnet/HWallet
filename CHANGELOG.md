@@ -2,6 +2,9 @@
 
 ## Changelog
 
+#### 0.2.9 (2026-02-16)
+- UI bug fixes
+
 #### 0.2.8 (2026-02-08)
 - UI bug fixes
 - Added Yggdrasil interface
