@@ -16,7 +16,9 @@ There will be continous improvements and functional enhancements in future updat
 
 
 ## Getting Started
-Download the APK file from the current [Releases](https://github.com/HydraMeshnet/HWallet/releases) and install it.
+Download the APK file and install it on your Android device.
+
+<a href="https://github.com/HydraMeshnet/HWallet/releases"><img src="docs/github.png" height="60" alt="Get it on GitHub"></a> <a href="https://hydrameshnet.github.io/fdroid/repo/"><img src="docs/fdroid.png" height="60" alt="Get it on F-Droid"></a>
 
 
 ## Apps/Features (Overview)
